@@ -2,6 +2,7 @@
 A simple repo to store dotfiles and other configuration used when developing on MacOS.
 
 ### Pre requisites
+- [Starship](https://starship.rs/)
 - [Homebrew](https://brew.sh/)
 - [oh-my-zsh](https://ohmyz.sh/#install)
 - [GNU stow](http://formulae.brew.sh/formula/stow#default)
